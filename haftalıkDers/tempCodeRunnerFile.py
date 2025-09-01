@@ -1,0 +1,1 @@
+    print("Veriler dosyaya yazildi.")
