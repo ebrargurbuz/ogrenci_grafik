@@ -1,2 +1,0 @@
-# ogrenci_grafik
-
